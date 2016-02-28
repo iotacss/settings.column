@@ -1,0 +1,17 @@
+{
+  "name": "iotacss-column",
+  "version": "0.1.0",
+  "description": "Column settings for iotaCSS",
+  "main": "_settings.column.scss",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:iotacss/settings.column.git"
+  },
+  "keywords": [
+    "iotacss",
+    "css",
+    "bem",
+    "oocss"
+  ],
+  "author": "Dimitris Psaropoulos <info@harby.me>"
+}
